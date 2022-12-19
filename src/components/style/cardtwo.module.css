@@ -1,0 +1,52 @@
+.wraptwo{
+  display: inline-block;
+  width: 15%;
+  background-color: rgb(241, 241, 241);
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+ 
+}
+.wrap_infotwo {
+  display: block;
+  width: 100%;
+   
+}
+.date {
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+
+.title h1{
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+
+.wrap_imgtwo {
+  display: block;
+  
+}
+
+.wrap_imgtwo img {
+    width: 100%;
+    
+}
+
+.footer {
+  display: block;
+  width: 100%;
+  
+}
+
+.foot_left  {
+  display: block;
+  width: 30%;
+}
+
+
+.foot_left img {
+  width: 18px;
+  height: 18px;
+  margin-right: 10px;
+ 
+}
